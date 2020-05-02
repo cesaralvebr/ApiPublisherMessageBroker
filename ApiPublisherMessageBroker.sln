@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiPublisherMessageBroker", "ApiPublisherMessageBroker\ApiPublisherMessageBroker.csproj", "{48157507-5424-4DFE-8E61-935309F0614E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48157507-5424-4DFE-8E61-935309F0614E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48157507-5424-4DFE-8E61-935309F0614E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48157507-5424-4DFE-8E61-935309F0614E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48157507-5424-4DFE-8E61-935309F0614E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1389C70E-E6CB-4553-8725-5731FF250CB3}
+	EndGlobalSection
+EndGlobal
